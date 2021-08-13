@@ -38,7 +38,7 @@ body{
     flex-direction: column;
 }
 .right{
-    background:linear-gradient(0deg,rgba(114, 11, 179, 0.4),rgba(114, 11, 179, 0.4)),url("./images/image-header-desktop.jpg");
+    background:linear-gradient(0deg,rgba(114, 11, 179, 0.4),rgba(114, 11, 179, 0.4)),url("./image-header-desktop.jpg");
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
@@ -115,7 +115,7 @@ body{
         margin-block-end: 30px;
     }
     .right{
-        background:linear-gradient(0deg,rgba(114, 11, 179, 0.4),rgba(114, 11, 179, 0.4)),url("./images/image-header-mobile.jpg");
+        background:linear-gradient(0deg,rgba(114, 11, 179, 0.4),rgba(114, 11, 179, 0.4)),url("./image-header-mobile.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: right center;
