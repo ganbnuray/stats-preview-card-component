@@ -71,7 +71,7 @@ body{
     display:grid;
     grid-template-columns: repeat(3,1fr);
     font-family: 'Inter',sans-serif;
-    padding-block-end:30px;
+    padding-block-end:60px;
     padding-block-start: 20px;
 }
 .stats h2{
