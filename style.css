@@ -118,7 +118,7 @@ body{
         background:linear-gradient(0deg,rgba(114, 11, 179, 0.4),rgba(114, 11, 179, 0.4)),url("./image-header-mobile.jpg");
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: right center;
+        background-position: right top;
         border-top-right-radius: 5px;
     border-bottom-right-radius: 0px;
     border-top-left-radius: 5px;
